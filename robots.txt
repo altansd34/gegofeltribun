@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gegofeltribun.pages.dev/sitemap.xml
